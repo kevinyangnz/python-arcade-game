@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="128" tileheight="128" infinite="0" nextlayerid="23" nextobjectid="72">
+ <tileset firstgid="1" name="snow tiles" tilewidth="1800" tileheight="893" tilecount="29" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="wintertileset/png/Tiles/1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="wintertileset/png/Tiles/2.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="wintertileset/png/Tiles/3.png"/>
+  </tile>
+  <tile id="3">
+   <image width="128" height="128" source="wintertileset/png/Tiles/4.png"/>
+  </tile>
+  <tile id="4">
+   <image width="128" height="128" source="wintertileset/png/Tiles/5.png"/>
+  </tile>
+  <tile id="5">
+   <image width="128" height="128" source="wintertileset/png/Tiles/6.png"/>
+  </tile>
+  <tile id="6">
+   <image width="128" height="128" source="wintertileset/png/Tiles/7.png"/>
+  </tile>
+  <tile id="7">
+   <image width="128" height="128" source="wintertileset/png/Tiles/8.png"/>
+  </tile>
+  <tile id="8">
+   <image width="128" height="128" source="wintertileset/png/Tiles/9.png"/>
+  </tile>
+  <tile id="9">
+   <image width="128" height="128" source="wintertileset/png/Tiles/10.png"/>
+  </tile>
+  <tile id="10">
+   <image width="128" height="128" source="wintertileset/png/Tiles/11.png"/>
+  </tile>
+  <tile id="11">
+   <image width="128" height="128" source="wintertileset/png/Tiles/12.png"/>
+  </tile>
+  <tile id="12">
+   <image width="128" height="128" source="wintertileset/png/Tiles/13.png"/>
+  </tile>
+  <tile id="13">
+   <image width="128" height="93" source="wintertileset/png/Tiles/14.png"/>
+  </tile>
+  <tile id="14">
+   <image width="128" height="93" source="wintertileset/png/Tiles/15.png"/>
+  </tile>
+  <tile id="15">
+   <image width="128" height="93" source="wintertileset/png/Tiles/16.png"/>
+  </tile>
+  <tile id="16">
+   <image width="128" height="99" source="wintertileset/png/Tiles/17.png"/>
+  </tile>
+  <tile id="17">
+   <image width="128" height="128" source="wintertileset/png/Tiles/18.png"/>
+  </tile>
+  <tile id="18">
+   <image width="101" height="101" source="wintertileset/png/Object/Crate.png"/>
+  </tile>
+  <tile id="19">
+   <image width="97" height="78" source="wintertileset/png/Object/Crystal.png"/>
+  </tile>
+  <tile id="20">
+   <image width="101" height="101" source="wintertileset/png/Object/IceBox.png"/>
+  </tile>
+  <tile id="21">
+   <image width="511" height="201" source="wintertileset/png/Object/Igloo.png"/>
+  </tile>
+  <tile id="22">
+   <image width="87" height="94" source="wintertileset/png/Object/Sign_1.png"/>
+  </tile>
+  <tile id="23">
+   <image width="87" height="93" source="wintertileset/png/Object/Sign_2.png"/>
+  </tile>
+  <tile id="24">
+   <image width="193" height="210" source="wintertileset/png/Object/SnowMan.png"/>
+  </tile>
+  <tile id="25">
+   <image width="124" height="78" source="wintertileset/png/Object/Stone.png"/>
+  </tile>
+  <tile id="26">
+   <image width="364" height="280" source="wintertileset/png/Object/Tree_1.png"/>
+  </tile>
+  <tile id="27">
+   <image width="228" height="280" source="wintertileset/png/Object/Tree_2.png"/>
+  </tile>
+  <tile id="28">
+   <image width="1800" height="893" source="wintertileset/png/BG/BG.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="30" name="grass tiles" tilewidth="129" tileheight="129" tilecount="18" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="128" height="128" source="grasstileset/1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="grasstileset/2.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="128" source="grasstileset/3.png"/>
+  </tile>
+  <tile id="3">
+   <image width="129" height="129" source="grasstileset/4.png"/>
+  </tile>
+  <tile id="4">
+   <image width="128" height="128" source="grasstileset/5.png"/>
+  </tile>
+  <tile id="5">
+   <image width="128" height="128" source="grasstileset/6.png"/>
+  </tile>
+  <tile id="6">
+   <image width="128" height="128" source="grasstileset/7.png"/>
+  </tile>
+  <tile id="7">
+   <image width="128" height="128" source="grasstileset/8.png"/>
+  </tile>
+  <tile id="8">
+   <image width="128" height="128" source="grasstileset/9.png"/>
+  </tile>
+  <tile id="9">
+   <image width="128" height="128" source="grasstileset/10.png"/>
+  </tile>
+  <tile id="10">
+   <image width="128" height="128" source="grasstileset/11.png"/>
+  </tile>
+  <tile id="11">
+   <image width="128" height="128" source="grasstileset/12.png"/>
+  </tile>
+  <tile id="12">
+   <image width="128" height="93" source="grasstileset/13.png"/>
+  </tile>
+  <tile id="13">
+   <image width="128" height="93" source="grasstileset/14.png"/>
+  </tile>
+  <tile id="14">
+   <image width="128" height="93" source="grasstileset/15.png"/>
+  </tile>
+  <tile id="15">
+   <image width="128" height="128" source="grasstileset/16.png"/>
+  </tile>
+  <tile id="16">
+   <image width="128" height="99" source="grasstileset/17.png"/>
+  </tile>
+  <tile id="17">
+   <image width="128" height="128" source="grasstileset/18.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="48" name="arcadetiles" tilewidth="128" tileheight="128" tilecount="156" columns="13">
+  <image source="arcadetiles.png" width="1664" height="1536"/>
+ </tileset>
+ <tileset firstgid="204" source="RPG styled items.tsx"/>
+ <objectgroup id="22" name="Background">
+  <object id="71" gid="29" x="0" y="6400" width="10504" height="9021"/>
+ </objectgroup>
+ <layer id="1" name="Platforms" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1ksOgCAMRVFi4n7cn5t3SkAESpGnuSfpDCu1fAwBAAAAAPRtSagozUlxrgD6/XUvn1GgTvUOUrbie6V9olfA9z3dV7P2OmcIAKx391/XEl7vGskT241h4Z2nllupjtbeqdfROla9jpHcb4bX3l9dh1ePDuNzHqgjZ70HS+u4Z8zsM2RkHfeOuQAeHgeb
+  </data>
+ </layer>
+ <objectgroup id="19" name="Potion2">
+  <object id="58" gid="234" x="6062" y="94" width="16" height="16"/>
+  <object id="66" gid="234" x="566" y="2066" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup id="18" name="Potion1">
+  <object id="67" gid="234" x="5949.33" y="93.3333" width="16" height="16"/>
+ </objectgroup>
+ <layer id="2" name="Exit sign" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztziEBAAAIA7D3dzSmwA0KsyVYAgAAAAAAAAAAwMV8B6gWDjcAkg==
+  </data>
+ </layer>
+ <objectgroup id="15" name="Locks">
+  <object id="68" gid="105" x="5760" y="128" width="128" height="128"/>
+ </objectgroup>
+ <layer id="3" name="Dont touch" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1NEJACAIBUBXqP2HbYREKCzu4P2J8ECMAAAAAAAAAIB3jUI6moV0pEcvv/Q4yQ/pRY+azJ1Wbvl2j8y+3cwCqAEKaQ==
+  </data>
+ </layer>
+ <layer id="4" name="Bounce" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAADg3wAnEAAB
+  </data>
+ </layer>
+ <layer id="16" name="Placeholder" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6BHsn86Y1w3SEDCFdMOAAAAAAAAAAAAPLYwOQAx
+  </data>
+ </layer>
+ <objectgroup id="9" name="Ladders">
+  <object id="2" gid="96" x="6144" y="128" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="20" name="Key2">
+  <object id="69" gid="204" x="5692" y="71.6364" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="14" name="Key1">
+  <object id="65" gid="204" x="4292.85" y="3025.94" width="128" height="128"/>
+ </objectgroup>
+</map>
