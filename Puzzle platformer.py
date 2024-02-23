@@ -226,6 +226,8 @@ class GameView(arcade.View, PlayerCharacter):
         # Load sounds to play when doing applicable activities.
         self.jump_sound = arcade.load_sound(":resources:sounds/jump1.wav")
 
+        self.setup()
+
     def setup(self):
         """This function is called whenever the 
         game needs to be setup"""
