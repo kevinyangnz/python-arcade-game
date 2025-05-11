@@ -1,4 +1,4 @@
-# Python-Arcade-
+# Python Arcade Game
 This is my Python Arcade project from year 13.
 
 To run the game, you'll need to install Tiled and the Python Arcade Library.
